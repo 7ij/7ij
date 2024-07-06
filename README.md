@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://7ij.github.io/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working as an `Android Application Developer`.
 
 - 🌱 I’m currently learning `Android(Kotlin) Stack`
 
