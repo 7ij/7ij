@@ -45,15 +45,10 @@ Here are some ideas to get you started: -->
 ## ❤️ Let's get connected:
 
 <p>  <a href="https://www.linkedin.com/in/7ij/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-</p>
-
-## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/7ij" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+</p> 
 
 ## 📊 My GitHub Data:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=7ij&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ij&" alt="soumyajit" />
 </div>
